@@ -1,2 +1,2 @@
-# k_means_clustering_retail
-Client segmentation of an e-commerce in Brazil through unsupervised ML (K-means clustering)  
+# k_means_clustering_for_customer_segmentation
+Customer segmentation for an e-commerce in Brazil through unsupervised ML (K-means algorithm)  
